@@ -1,0 +1,6 @@
+# Projeto-front-end-
+Repositório referente aos meus projetos de frond-end
+Nesse repositório eu incluí todos os códigos referentes a disciplina.
+Na primeira fase fiz um arquivo html com um portfólio profissional simples que funciona como um currículo digital.
+No segundo momento fiz um portfólio de cadastro simples que inclui alguns campos para os quais podemos incluir alguns dados pessoais e links de github e linkedin.
+No terceiro momento eu fiz um portfólio me apresentando, incluindo um "sobre mim", habilidades técnicas e projetos feitos ao longo do curso. Na página é possível fazer um cadastro para que eu possa entrar em contato com fins profissionais.
