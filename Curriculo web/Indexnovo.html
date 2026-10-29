@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br"> 
+<head> 
+  <meta charset="UTF-8"> 
+  <title>Meu cadastro</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+
+<body>
+  <h1>Curriculo web inteligente</h1>
+  <h2>Editar perfil</h2>
+
+  <section id="editor">
+    <input id="nome" placeholder="Digite seu nome">
+    <input id="cargo" placeholder="Cargo desejado">
+    <textarea id="resumo" placeholder="Resumo profissional"></textarea><br>
+    <button id="salvar">Salvar Perfil</button>
+  </section>
+
+  <form>
+    <label>Nome</label><br>
+    <input type="text" required minlength="5"><br><br>
+
+    <label>E-mail</label><br>
+    <input type="email" required minlength="5"><br><br>
+
+    <label>Telefone</label><br>
+    <input type="tel" required minlength="5"><br><br>
+
+    <label>Linkedin</label><br>
+    <input type="url" required minlength="5"><br><br>
+
+    <label>Github</label><br>
+    <input type="url" required minlength="5"><br><br>
+  </form>
+
+  <h1>Visualização do currículo</h1>
+  <h2 id="nomeExibido">Seu nome</h2>
+</body>
+</html>
